@@ -1,0 +1,7 @@
+description: "Provides information about Lmos Arc"
+supportedChannels:
+  - web
+providedCapabilities:
+  - name: arc-information
+    version: "0.1.0"
+    description: "Provides information about Lmos Arc"
