@@ -2,6 +2,6 @@ description: "This is a news agent which can summarize online pages."
 supportedChannels:
   - web
 providedCapabilities:
-  - name: arc-information
-    version: "0.1.0"
+  - name: news
+    version: "0.2.0"
     description: "Capability to summarize the news of an online web page."
