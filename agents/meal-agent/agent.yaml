@@ -1,0 +1,7 @@
+description: "An agent that can make meal suggestions for different areas."
+supportedChannels:
+  - web
+providedCapabilities:
+  - name: meal-suggestions
+    version: "0.2.0"
+    description: "Capability to provide meal suggestions."
